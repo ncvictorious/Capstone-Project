@@ -3,7 +3,7 @@
 ## Project Overview
 This project applies machine learning techniques to predict customer churn in a telecommunications dataset. The goal is to build and evaluate classification models that help identify customers likely to churn, providing insights that can drive proactive retention strategies.
 
-This project is a part of my MSc program and showcases my skills in data analysis, feature engineering, and model evaluation. I have implemented several classification algorithms, including Logistic Regression, Random Forest, and Decision Trees, and optimized them for best performance.
+This project showcases my skills in data analysis, feature engineering, and model evaluation. I have implemented several classification algorithms, including Logistic Regression, Random Forest, and Decision Trees, and optimized them for best performance.
 
 ## Key Features
 - **Comprehensive Exploratory Data Analysis (EDA)**: A detailed analysis of customer demographics and service usage patterns to understand factors affecting churn.
